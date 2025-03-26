@@ -5,6 +5,7 @@ from requests import *
 import pytz
 import time
 import sys
+import pandas as pd
 
 
 root=Tk()
