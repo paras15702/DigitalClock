@@ -6,7 +6,7 @@ import pytz
 import time
 import sys
 import pandas as pd
-
+import matplotlib
 
 root=Tk()
 root.title("Digital Clock")
